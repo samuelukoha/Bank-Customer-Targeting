@@ -33,7 +33,7 @@ This Major Research Project (MRP) investigates how big data analytics and machin
 
 **UCI Bank Marketing Dataset**  
 - **Source:** UCI Machine Learning Repository  
-- **Link:** https://archive.ics.uci.edu/dataset/222/bank+marketing  
+- **Link:** https://archive.ics.uci.edu/dataset/222/bank+marketing 
 - **Records:** 45,211  
 - **Features:** 16 input features + 1 binary target variable  
 - **Target:** Whether the customer subscribed to a term deposit (yes/no)  
@@ -94,8 +94,8 @@ MRP-Banking-Customer-Targeting/
 │   └── MRP_Analysis.ipynb  # Jupyter notebook version of full pipeline
 │
 ├── src/
-│   ├── chapter3_figures.py # Chapter 3 EDA visualisations
-│   └── mrp_experiments.py  # Full experiment pipeline (Exp 1, 2, 3)
+│   ├── data_exploratory_analysis.py   # Chapter 3 — Exploratory Data Analysis figures
+│   └── methodology_and_experiments.py # Chapter 4 — Full experiment pipeline (Exp 1, 2, 3)
 │
 ├── figures/
 │   ├── figure1_class_distribution.png
@@ -116,7 +116,10 @@ MRP-Banking-Customer-Targeting/
 │   └── exp3_mean_std_results.csv
 │
 └── report/
-    └── MRP_Chapter1.docx
+    ├── Chapter1_Introduction.docx
+    ├── Chapter2_Literature_Review.docx
+    ├── Chapter3_Data_EDA.docx
+    └── Chapter4_Methodology.docx
 ```
 
 ---
@@ -139,14 +142,14 @@ Download `bank-full.csv` from:
 https://archive.ics.uci.edu/ml/datasets/Bank+Marketing  
 Place it in the `/data` folder.
 
-### 4. Generate Chapter 3 Figures
+### 4. Generate Chapter 3 — Exploratory Data Analysis Figures
 ```bash
-python src/chapter3_figures.py
+python src/data_exploratory_analysis.py
 ```
 
-### 5. Run Full Experiment Pipeline
+### 5. Run Chapter 4 — Methodology and Experiments Pipeline
 ```bash
-python src/mrp_experiments.py
+python src/methodology_and_experiments.py
 ```
 
 Results will be saved to the `/results` folder and figures to the `/figures` folder.
@@ -196,5 +199,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Samuel Ukoha**  
 MSc Data Science & Analytics  
+samuel.n.ukoha@gmail.com
 Toronto Metropolitan University  
 Toronto, Ontario, Canada, 2026
