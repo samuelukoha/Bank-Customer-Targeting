@@ -183,53 +183,52 @@ scipy>=1.9.0
 
 ## 📚 References
 
-[1] Chen, M., Mao, S., & Liu, Y. (2014). Big data: A survey. Mobile Networks and Applications, 19(2),
+1. Chen, M., Mao, S., & Liu, Y. (2014). Big data: A survey. Mobile Networks and Applications, 19(2),
 171–209. ResearchGate
-[2] Wedel, M., & Kannan, P. K. (2016). Marketing analytics for data-rich environments. Journal of Marketing,
+2. Wedel, M., & Kannan, P. K. (2016). Marketing analytics for data-rich environments. Journal of Marketing,
 80(6), 97–121. ResearchGate
-[3] Moro, S., Cortez, P., & Rita, P. (2014). A data-driven approach to predict the success of bank telemarketing.
+3. Moro, S., Cortez, P., & Rita, P. (2014). A data-driven approach to predict the success of bank telemarketing.
 Decision Support Systems, 62, 22–31. ResearchGate
-[4] Tran, H., Le, N., & Nguyen, V.-H. (2023). Customer churn prediction in the banking sector using machine
+4. Tran, H., Le, N., & Nguyen, V.-H. (2023). Customer churn prediction in the banking sector using machine
 learning-based classification models. IJIKM, 18, 87–105. Open access
-[5] De Caigny, A., Coussement, K., & De Bock, K. W. (2018). A new hybrid classification algorithm for
+5. De Caigny, A., Coussement, K., & De Bock, K. W. (2018). A new hybrid classification algorithm for
 customer churn prediction based on logistic regression and decision trees. European Journal of Operational
 Research, 269(2), 760–772. ResearchGate
-[6] Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system. Proceedings of the 22nd
+6. Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system. Proceedings of the 22nd
 ACM SIGKDD, 785–794. ArXiv
-[7] Ngai, E. W. T., Hu, Y., Wong, Y. H., Chen, Y., & Sun, X. (2011). The application of data mining
+7. Ngai, E. W. T., Hu, Y., Wong, Y. H., Chen, Y., & Sun, X. (2011). The application of data mining
 techniques in financial fraud detection. Decision Support Systems, 50(3), 559–569. ResearchGate
-[8] Kambatla, K., Kollias, G., Kumar, V., & Grama, A. (2014). Trends in big data analytics. Journal of
+8. Kambatla, K., Kollias, G., Kumar, V., & Grama, A. (2014). Trends in big data analytics. Journal of
 Parallel and Distributed Computing, 74(7), 2561–2573. ResearchGate
-[9] Provost, F., & Fawcett, T. (2013). Data science and its relationship to big data and data-driven decision
+9. Provost, F., & Fawcett, T. (2013). Data science and its relationship to big data and data-driven decision
 making. Big Data, 1(1), 51–59. ResearchGate
-[10] Breiman, L. (2001). Random forests. Machine Learning, 45(1), 5–32. Semantic Scholar
-[11] Cortes, C., & Vapnik, V. (1995). Support-vector networks. Machine Learning, 20(3), 273–297. Semantic
+10. Breiman, L. (2001). Random forests. Machine Learning, 45(1), 5–32. Semantic Scholar
+11. Cortes, C., & Vapnik, V. (1995). Support-vector networks. Machine Learning, 20(3), 273–297. Semantic
 Scholar
-[12] Zhang, Z. (2016). Introduction to machine learning: K-nearest neighbors. Annals of Translational
+12. Zhang, Z. (2016). Introduction to machine learning: K-nearest neighbors. Annals of Translational
 Medicine, 4(11), 218. PubMed open access
-[13] Quinlan, J. R. (1986). Induction of decision trees. Machine Learning, 1(1), 81–106. Semantic Scholar
-[14] Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: Synthetic minority
+13. Quinlan, J. R. (1986). Induction of decision trees. Machine Learning, 1(1), 81–106. Semantic Scholar
+14. Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). SMOTE: Synthetic minority
 over-sampling technique. Journal of Artificial Intelligence Research, 16, 321–357. Open access
-[15] He, H., & Garcia, E. A. (2009). Learning from imbalanced data. IEEE Transactions on Knowledge and
+15. He, H., & Garcia, E. A. (2009). Learning from imbalanced data. IEEE Transactions on Knowledge and
 Data Engineering, 21(9), 1263–1284. ResearchGate
-[16] Lemmens, A., & Croux, C. (2006). Bagging and boosting classification trees to predict churn. Journal
+16. Lemmens, A., & Croux, C. (2006). Bagging and boosting classification trees to predict churn. Journal
 of Marketing Research, 43(2), 276–286. ResearchGate
-[17] Coussement, K., & Van den Poel, D. (2008). Churn prediction in subscription services: An application
+17. Coussement, K., & Van den Poel, D. (2008). Churn prediction in subscription services: An application
 of support vector machines. Expert Systems with Applications, 34(1), 313–327. ResearchGate
-[18] Larivi`ere, B., & Van den Poel, D. (2005). Predicting customer retention and profitability by using random
+18. Larivi`ere, B., & Van den Poel, D. (2005). Predicting customer retention and profitability by using random
 forests and regression forest techniques. Expert Systems with Applications, 29(2), 472–484. ResearchGate
-[19] Peng, C.-Y. J., Lee, K. L., & Ingersoll, G. M. (2002). An introduction to logistic regression analysis and
+19. Peng, C.-Y. J., Lee, K. L., & Ingersoll, G. M. (2002). An introduction to logistic regression analysis and
 reporting. Journal of Educational Research, 96(1), 3–14. ResearchGate
-[20] Han, J., Kamber, M., & Pei, J. (2012). Data Mining: Concepts and Techniques (3rd ed.). Morgan
+20. Han, J., Kamber, M., & Pei, J. (2012). Data Mining: Concepts and Techniques (3rd ed.). Morgan
 Kaufmann. Widely available
-[21] Ganganwar, V. (2012). An overview of classification algorithms for imbalanced datasets. International
+21. Ganganwar, V. (2012). An overview of classification algorithms for imbalanced datasets. International
 Journal of Emerging Technology and Advanced Engineering, 2(4), 42–47. Open access
-[22] Malik, M., & Thomas, L. C. (2010). Modelling credit risk of portfolio of consumer loans. Journal of the
+22. Malik, M., & Thomas, L. C. (2010). Modelling credit risk of portfolio of consumer loans. Journal of the
 Operational Research Society, 61(3), 411–420. ResearchGate
-[23] Pedregosa, F., Varoquaux, G., Gramfort, A., et al. (2011). Scikit-learn: Machine learning in Python.
+23. Pedregosa, F., Varoquaux, G., Gramfort, A., et al. (2011). Scikit-learn: Machine learning in Python.
 Journal of Machine Learning Research, 12, 2825–2830. Open access — https://jmlr.org/papers/v12/pedreg
 osa11a.html
-39
 
 ---
 
